@@ -15,19 +15,22 @@
 * To add image = ![imagename](url) <br>
 
 * To add a table = <br>
-|col1 |col2 |col3 | 
-|--- |--- |--- |
-|row |0 |1 |
-|row |0 |2 |
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
 <br>
-* To indent in para =
-`indent` <br>
-* To add a code = 
-```pip install python```
+
+* To add a code = <br>
+
+```pip install python```<br>
+
 <br>
 
 * To add number to a list <br>
-1.item1
+1.item1 <br>
 2.item2
 * bullet1
 * bullet2
